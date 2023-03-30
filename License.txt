@@ -1,4 +1,4 @@
-- SameCase変換モジュール
+- 秀丸エディタ用 SameCase変換モジュール
 
 Copyright (C) 2023 有限会社サイトー企画 斉藤秀夫
 
